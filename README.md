@@ -1,2 +1,2 @@
-# BT-Numerical-simulation-of-an-SU-2-cavity
-driven and dissipative dynamics inside an SU(2) cavity
+# BT-Numerical simulation of an SU 2 cavity
+Part of my bachelor project investigating dynamics in a quantum cavity, that underlies different symmetry groups, in this case, SU(2). It calculates the Hamiltonian which is constructed once exactly, in the angular momentum basis, and once effectively, in a separately defined glueball basis. Afterwards, numerical plots for several interesting expectation values, following from the Hamiltonian, are shown. Much of the code into constructing the Hilbert space, including basis and operators.
